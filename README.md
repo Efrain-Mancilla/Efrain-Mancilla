@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new and veteran developers so that I can improve my skills.
 - 🤔 I’m looking for any tips that you may have.
 - 💬 Ask me about my D&D campaign.
-- 📫 How to reach me: IG- _efrain_m
+- 📫 Reach me on Instagram at _efrain_m
 - ⚡ Fun fact: I've choked multiple times while eating because I did not want to chew.
 
 <!--
