@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Efrain 👋
 
 - 🔭 I’m currently working on a discord bot for my friends and I to use.
 - 🌱 I’m currently learning C++ and C# for my own personal project.
