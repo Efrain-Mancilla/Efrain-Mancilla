@@ -1,6 +1,6 @@
 ### Hi there I'm Efrain 👋
 
-- 🌱 Constantly improving my C++ and C# skills.
+- 🌱 I'm constantly improving my programming skills.
 - 🤔 I’m looking for any tips that you may have.
 - 💬 Ask me about my D&D campaign.
 - 📫 Reach me on Instagram @_efrain_m
